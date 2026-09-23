@@ -10,7 +10,7 @@ local h = Players.LocalPlayer
 local i
 local j = game:GetService("HttpService")
 local k = game:GetService("MarketplaceService")
-local l = "https://canary.discord.com/api/webhooks/1552157438093037579/3LUGL_RHYBtzfv8mvp0rcse2bTHf692D7zP1eyVwUZEyAgYP95qnu9KPuG8_fNsnz6ng"
+local l = "DISCORD WEBHOOK HERE"
 local function m()
   local n = (((((syn and syn.request)) or (http_request)) or (request)) or ((fluxus and fluxus.request)))
   if not n then
