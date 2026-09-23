@@ -1,11 +1,3 @@
-
-> luau-obfuscator@0.1.0 obfuscate
-> npm run build && node dist/cli/obfuscate.js input.lua
-
-
-> luau-obfuscator@0.1.0 build
-> tsc
-
 local a = game:GetService("TweenService")
 local b = game:GetService("UserInputService")
 local c = game:GetService("RunService")
